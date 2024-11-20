@@ -6,7 +6,8 @@
 Simple SV is a Windows Store application to easily view and exploit your CSV, TSV or TAB files. 
 
 Currently the main features are the following :
--   Display only the desired columns. 
+-   Display only the desired columns.
+-   Autofix for some cases (empty columns, bad separator) 
 -   Find your latest viewed files or those you have pinned. 
 -   Fully usable offline. 
 
@@ -18,7 +19,7 @@ Currently the main features are the following :
 
 In this repository you will find :
 -   all legals files (currently Privacy policy) in *docs* folder
--   in the foreseeable future, the source code of the app (keep calm and take a tea)
+-   in the foreseeable future, the source code of the app (keep calm and take a cup of tea)
 
 The other advantage of this repository for users is to be able to reprot bug or propose new features / or improvements.
 
